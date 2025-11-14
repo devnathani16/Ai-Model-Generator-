@@ -1,0 +1,5 @@
+{
+  "name": "AI Model Generator",
+  "description": "An AI-powered application to generate professional product photos and promotional videos. Upload a single product image to create model photos, lifestyle shots, and e-commerce listings. Turn your product photos or videos into stunning promotional reels in various styles.",
+  "requestFramePermissions": []
+}
